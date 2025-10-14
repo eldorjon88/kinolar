@@ -52,9 +52,3 @@ class SerialEpisode(Base):
     updated_at = Column(DateTime, default=datetime.now, onupdate=datetime.now)
 
     serial = relationship("Serial", back_populates="episodes")
-
-
-
-
-
-    
