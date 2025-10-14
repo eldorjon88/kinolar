@@ -118,4 +118,3 @@ def delete_serial_seria(
     db.commit()
     
     return {"message": "Serial Seria muvaffaqiyatli o'chirildi."}
-
