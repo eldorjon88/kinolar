@@ -22,3 +22,5 @@ def get_all(
 ):
     result = service_get_all(search, genre, type, year)
     return {"movies": result}
+
+
