@@ -266,4 +266,3 @@ def delete_movie(movie_id: int = Path(..., gt=0)):
     db.commit()
     
     return {"message": "Movie muvaffaqiyatli o'chirildi"}
-
