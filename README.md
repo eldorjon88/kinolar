@@ -1,5 +1,3 @@
-📁 Loyiha tuzilishi
-
 Filmlane/
 ├── app/                          # FastAPI backend
 │   ├── db/                      # Database konfiguratsiyasi
