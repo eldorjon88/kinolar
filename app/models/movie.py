@@ -58,12 +58,3 @@ class Movie(Base):
     def __repr__(self):
         return f"Movie(title={self.title}, desc={self.description}, release_year={self.release_year})"
     
-
-
-
-
-
-
-
-
-    
